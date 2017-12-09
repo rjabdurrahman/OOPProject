@@ -1,0 +1,13 @@
+//abstruct User --not has a abstruct method
+//login mathod
+//recover password
+//Register id same
+
+//variable name
+-- admin_addRegister_btn
+-- local_adminlist
+
+// override -- higher accessability
+abstract manageAdmin()
+@Overidden
+public abstract manageAdmin();

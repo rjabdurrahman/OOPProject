@@ -1,0 +1,11 @@
+//Pass By Reference -- Login Button Action (Done)
+//ArrayList -- Login Button action (Done)
+//Inheritance -- Admin, Register, .... (Done)
+--Multiple Inheritance GlobalAdmin and LocalAdmin (Semi-Done)
+//Encapluation -- User.java fields (Done)
+//Interface
+//Abstruct Class -- User and Admin
+//Abstruct Method -- (Admin)
+//Overload Constructor -- Student Login
+//Overload Method -- Admin/manageRegister & manageAdmin (Semi-Done)
+//Overriding
